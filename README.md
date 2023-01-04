@@ -64,7 +64,7 @@ npm install  --save react-stockcharts
 
 ### Documentation
 
-[Documentation](http://charts.github.io/react-stockcharts)
+[Documentation](http://mindougas.github.io/charts/react-stockcharts)
 
 [Ready to use Examples](https://github.com/mindougas/react-stockcharts-examples2)
 
