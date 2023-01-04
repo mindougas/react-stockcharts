@@ -13,7 +13,7 @@ If you like this project checkout <a href="https://gocharting.com" target="_blan
  - over 60 technical indicators and overlays
  - drawing objects
 
-Multiple [quick start examples](https://github.com/rrag/react-stockcharts-examples2)
+Multiple [quick start examples](https://github.com/mindougas/react-stockcharts-examples2)
 
 - svg and canvas for improved performance. 
 - pan and zoom, on touch devices too
@@ -64,9 +64,9 @@ npm install  --save react-stockcharts
 
 ### Documentation
 
-[Documentation](http://rrag.github.io/react-stockcharts)
+[Documentation](http://charts.github.io/react-stockcharts)
 
-[Ready to use Examples](https://github.com/rrag/react-stockcharts-examples2)
+[Ready to use Examples](https://github.com/mindougas/react-stockcharts-examples2)
 
 ### Contributing
 
